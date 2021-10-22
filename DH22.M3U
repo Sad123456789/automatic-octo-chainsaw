@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0,MV TV
+https://feed.play.mv:443/live/1009/Tj1vCPDMET/master.m3u8   
+#EXTINF:0,PSM     
+https://feed.play.mv:443/live/10005200/1lwYOkuLXV/1.m3u8                      
+#EXTINF:0,RAAJJE TV        
+https://feed.play.mv:443/live/10005200/uUWVAldj9Z/master.m3u8 
+#EXTINF:0,MUNNAARU       
+https://feed.play.mv:443/live/10005200/fa9nr2QgFE/master.m3u8     
+#EXTINF:0,V TV                               
+https://feed.play.mv:443/live/10005200/QjASxzyZ14/master.m3u8              
+#EXTINF:0,CHANNEL 13         
+https://feed.play.mv:443/live/10005200/pBtuzpYG4l/master.m3u8                
+#EXTINF:0,SUNGU TV             
+https://feed.play.mv:443/live/10005200/qxen08Zh3x/1.m3u8   
+#EXTINF:0,TVM                        
+https://feed.play.mv:443/live/10005200/sWhizjA8QC/master.m3u8    
+#EXTINF:0,AL KAUN                  
+https://feed.play.mv:443/live/1009/Xtg93mAOin/master.m3u8    
+#EXTINF:0,YES TV                       
+https://feed.play.mv:443/live/10005200/Alx2rWyQG4/1.m3u8       
+#EXTINF:0,SAUDI 
+https://feed.play.mv/live/1009/Fnyy4wl9fn/master.m3u8   
+#EXTINF:0,SAUD QURAAN                  
+https://feed.play.mv/live/1009/Wz80eJ0B7o/master.m3u8 
+#EXTINF:0,MADHEENAA     
+https://feed.play.mv/live/1009/gKb5lFwWql/master.m3u8     
+#EXTINF:0,DISNY INTERTATIONAL 
+https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8       
+#EXTINF:0,STAR PLUS          
+http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8                               
+#EXTINF:0,SONY TEN 1  
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8       
+#EXTINF:0,SONY TEN 2 
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8       
+#EXTINF:0,SONY TEN 3 
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8 
+#EXTINF:0,FOOD                    
+ https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8                      
+#EXTINF:0,COLOR 
+http://51.79.84.156:8082/ColorsIn/index.m3u8  
+#EXTINF:0,SONY MEX                   
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8   
+#EXTINF:0,yes tv
+ https://feed.play.mv:443/live/10005200/Alx2rWyQG4/1.m3u8  
+#EXTINF:0,ZEE TV HD (astro)
+ http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
+#EXTINF:0,STAR PLUS HD 4K (astro)
+http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+#EXTINF:0,ZEE CINEMA HD (astro)
+ http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8 
